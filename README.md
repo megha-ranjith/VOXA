@@ -20,7 +20,7 @@ Voxa is an Android-based voice assistant designed to help visually impaired stud
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/Voxa.git
+   git clone https://github.com/megha-ranjith/VOXA.git
    ```
 2. Open the project in Android Studio.
 3. Connect Firebase to the project.
