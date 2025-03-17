@@ -18,7 +18,7 @@ Voxa is an Android-based voice assistant designed to help visually impaired stud
 
 ## 🔧 Installation  
 
-1. Clone the repository:  
+1. Clone the repository:   
    ```bash
    git clone https://github.com/megha-ranjith/VOXA.git
    ```
