@@ -11,7 +11,7 @@ Voxa is an Android-based voice assistant designed to help visually impaired stud
 - 🎯 **User-Friendly Interface** – Designed for smooth and intuitive interaction.  
 
 ## 🚀 Tech Stack  
-
+ 
 - **Frontend:** Android (Java)  
 - **Backend:** Firebase (Firestore)  
 - **APIs:** Google's Speech Recognition & Text-to-Speech  
