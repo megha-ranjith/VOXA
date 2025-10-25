@@ -6,7 +6,7 @@ Voxa is an Android-based voice assistant designed to help visually impaired stud
 
 - 🎙 **Voice Navigation** – Hands-free access to timetables, assignments, attendance, and notices.  
 - 🗣 **Speech Recognition** – Uses Google's API for accurate voice command processing.  
-- 🔊 **Text-to-Speech Conversion** – Reads out academic details clearly for easy understanding.  
+- 🔊 **Text-to-Speech Conversion** – Reads out academic details clearly for easy understanding.   
 - ☁ **Cloud Storage (Firebase)** – Ensures real-time updates and secure data handling.  
 - 🎯 **User-Friendly Interface** – Designed for smooth and intuitive interaction.  
 
